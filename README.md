@@ -7,6 +7,7 @@ Real-time order flow visualization for Polymarket directly in your terminal.
 <p align="center">
   <img src="Screenshot.png" width="900">
 </p>
+
 ## Features
 
 * 📈 Live Polymarket trade feed
