@@ -4,8 +4,13 @@ A real-time terminal dashboard for monitoring Polymarket trades.
 
 Watch order flow, buy/sell pressure, large trades, and market activity directly from your terminal — no API keys required.
 
----
+# ⬡ Polymarket Orderflow Terminal
 
+Real-time order flow visualization for Polymarket directly in your terminal.
+
+<p align="center">
+  <img src="Screenshot.png" width="900">
+</p>
 ## Features
 
 * 📈 Live Polymarket trade feed
