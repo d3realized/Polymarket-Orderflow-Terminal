@@ -1,8 +1,4 @@
-# ⬡ Polymarket Orderflow Terminal
 
-A real-time terminal dashboard for monitoring Polymarket trades.
-
-Watch order flow, buy/sell pressure, large trades, and market activity directly from your terminal — no API keys required.
 
 # ⬡ Polymarket Orderflow Terminal
 
@@ -51,12 +47,6 @@ cd polymarket-orderflow-terminal
 ```
 
 ### Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-or manually:
 
 ```bash
 pip install rich websockets
@@ -152,18 +142,6 @@ The terminal will display:
 
 ---
 
-## Project Structure
-
-```text
-.
-├── polymarket_orderflow.py
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
-
----
-
 ## Example Output
 
 ```text
@@ -191,7 +169,3 @@ This project is unofficial and is not affiliated with Polymarket.
 Public APIs may change without notice, which can temporarily break functionality.
 
 ---
-
-## License
-
-MIT
